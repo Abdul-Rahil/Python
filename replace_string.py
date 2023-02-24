@@ -1,0 +1,6 @@
+lam = input("Enter a string:")
+lam = lam.replace('a','$')
+print(lam)
+lam1 = input("Enter a string:")
+lam1 = lam1.replace(' ','-')
+print(lam1)
